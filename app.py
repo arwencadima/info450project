@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 st.title("FEMA Disaster Relief Dashboard")
-st.write("Author: YOUR NAME")
+st.write("Author: Arwen Cadima")
 
 # Load data
 df = pd.read_csv("fema_cleaned.csv")
